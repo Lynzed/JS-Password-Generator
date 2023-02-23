@@ -1,2 +1,1 @@
-# JS-Password-Generator
-Random string / Password Generator using JavaScript
+# Repo not set up yet
